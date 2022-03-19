@@ -28,7 +28,12 @@ a:focus {
     outline: none;
     text-decoration: none;
 }
-
+.whatsapp {
+    color:#ffffff;
+}
+.whatsapp:hover {
+    color:#446ad4;
+}
 .btn:focus,
 .form-control:focus {
     box-shadow: none;
